@@ -1,16 +1,60 @@
-# klaar_gemini
+![photo_2024-04-29_23-18-11](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/4ee4776b-f740-496d-8514-8b81b4a442a5)# Klaar Gemini Chat Application
 
-A new Flutter project.
+Klaar Gemini Chat Application is a Flutter-based chat application that allows users to send text and images while responding using the Gemini API.
 
-## Getting Started
+## Image
 
-This project is a starting point for a Flutter application.
+![photo_2024-04-29_23-18-06](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/b4305e81-6f3a-4e0c-ae63-0dd660e85c1a)
+![photo_2024-04-29_23-18-11](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/39d10f51-5d17-430e-b230-1e3996d04279)
 
-A few resources to get you started if this is your first Flutter project:
+## Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Video link: https://drive.google.com/drive/folders/1HMM8P2rN8M6cnhqzj2xBjoZsG2HE0cPU?usp=sharing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run the Application
+
+To run the Gemini Chat Application, follow these steps:
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/sangshek03/gemini_app_flutter.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd gemini_app_flutter
+    ```
+
+3. Install the required dependencies using Flutter:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Obtain an API token from Gemini. Follow the instructions provided in the "How to Obtain API Token" section below.
+
+5. Once you have obtained the API token, open the `lib/constants.dart` file and replace `"add_gemini_token_key"` with your actual Gemini API token.
+
+6. Run the application on your preferred device or emulator using Flutter:
+
+    ```bash
+    flutter run
+    ```
+
+## How to Obtain API Token
+
+1. Visit the Gemini website and sign in to your account, or create a new account if you haven't already.
+
+2. Generate a new API token by following the provided instructions.
+
+## Packages Used
+
+The Gemini Chat Application utilizes the following Flutter packages:
+
+- `dash_chat`: A Flutter package for building chat applications.
+- `flutter_gemini`: A Flutter package for integrating with the Gemini API.
+- `image_picker`: A Flutter package for selecting images from the device's gallery or camera.
+
+---
