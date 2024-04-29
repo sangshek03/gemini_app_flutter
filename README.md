@@ -1,11 +1,11 @@
-![photo_2024-04-29_23-18-11](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/4ee4776b-f740-496d-8514-8b81b4a442a5)# Klaar Gemini Chat Application
+# Klaar Gemini Chat Application
 
-Klaar Gemini Chat Application is a Flutter-based chat application that allows users to send text and images while responding using the Gemini API.
+Klaar Gemini Chat Application is a Flutter-based chat application that allows users to send text and images while responding using the Gemini API. 
 
 ## Image
 
-![photo_2024-04-29_23-18-06](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/b4305e81-6f3a-4e0c-ae63-0dd660e85c1a)
-![photo_2024-04-29_23-18-11](https://github.com/sangshek03/gemini_app_flutter/assets/110192004/39d10f51-5d17-430e-b230-1e3996d04279)
+<img src="https://github.com/sangshek03/gemini_app_flutter/assets/110192004/39d10f51-5d17-430e-b230-1e3996d04279" alt="Image 1" width="400" height="800">
+<img src="https://github.com/sangshek03/gemini_app_flutter/assets/110192004/b4305e81-6f3a-4e0c-ae63-0dd660e85c1a" alt="Image 2" width="400" height="800">
 
 ## Video
 
